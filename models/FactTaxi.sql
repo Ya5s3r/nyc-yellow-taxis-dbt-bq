@@ -8,5 +8,5 @@ select
     ) }} as taxi_id
     ,*
 
-    from
-        `nyc-yellow-taxis-398112`.NYCYellowTaxis.RawTaxiData    
+from
+    `nyc-yellow-taxis-398112`.NYCYellowTaxis.RawTaxiData    
